@@ -1,0 +1,8 @@
+{
+    "technology": "",
+    "statements": [
+        {
+            "include_path": "octowave_lib.klib"
+        }
+    ]
+}
