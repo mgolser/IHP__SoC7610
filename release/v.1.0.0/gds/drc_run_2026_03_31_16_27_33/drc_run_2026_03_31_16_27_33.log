@@ -1,8 +1,0 @@
-31-Mar-2026 18:27:33 | INFO    | KLayout version detected: 0.30.7
-31-Mar-2026 18:27:33 | INFO    | Using DRC JSON file: /foss/pdks/ihp-sg13g2/libs.tech/klayout/python/sg13g2_pycell_lib/sg13g2_tech_mod.json
-31-Mar-2026 18:34:31 | ERROR   | ==================================================================================
-31-Mar-2026 18:34:31 | ERROR   | ❌ --- KLayout DRC Check Failed: Violations were detected in the layout. --- ❌
-31-Mar-2026 18:34:31 | ERROR   | ==================================================================================
-31-Mar-2026 18:34:31 | ERROR   | Violated rules are : {'Pin.f_M2', 'V1.a', 'V3.b', 'TM1.b', 'V1.b', 'V3.a', 'M1.b'}
-
-31-Mar-2026 18:34:31 | INFO    | Total DRC Run time: 418.08 seconds (including execution, analysis, and reporting)
